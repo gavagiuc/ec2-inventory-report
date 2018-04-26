@@ -1,4 +1,4 @@
-# EC2-Inventory
+# ec2-inventory.py
 
 [Download](https://github.com/gavagiuc/ec2-inventory)
 
